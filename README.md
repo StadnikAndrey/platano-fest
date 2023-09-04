@@ -1,7 +1,6 @@
-# Верстка лендинга фестиваля
-
-## Инструменты
+# Layout
+## Tools
 HTML, CSS, SCSS, JS, JQuery, Webpack
 
-## Плагины
+## Plugins
 Jquery-scrollify
